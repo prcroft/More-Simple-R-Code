@@ -17,4 +17,4 @@ Simple code to demonstrate the steps required to produce a median using a datase
     + return(sorted.x[index])
     + }
   + }
-> my.median(heights)
+my.median(heights)
